@@ -7,7 +7,7 @@ and run the following command line (requires maven):</br>
 
 `mvn clean install`
 
-The application is to be run on an application server,</br>
+The application is to be run on a local application server on the 8080 port,</br>
 in my case it was an Apache Tomcat embedded in my Eclipse IDE.</br>
 
 Once the application is running, simply open the "front" folder</br>
