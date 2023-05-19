@@ -10,7 +10,7 @@ and run the following command line (requires maven):</br>
 The application is to be run on an application server,</br>
 in my case it was an Apache Tomcat embedded in my Eclipse IDE.</br>
 
-Once the application is Running, simply open the "front" folder</br>
+Once the application is running, simply open the "front" folder</br>
 and open the "index.html" file on a web browser, and **Voilà!**</br>
 
 This application is simply about clicking on the "Cliquez ici pour une main de dix cartes"</br>
